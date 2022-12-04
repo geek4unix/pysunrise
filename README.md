@@ -17,7 +17,7 @@ Successfully installed ephem-4.1.3
 # Run the script
 
 ```
- python3.10 sunrise_sunset.py
+python3.10 sunrise_sunset.py
 07:58
 15:54
 ```
